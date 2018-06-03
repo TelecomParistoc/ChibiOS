@@ -1,3 +1,5 @@
+This is a private copy of ChibiOS, a great embedded system developped by Giovanni Di Sirio.
+
 *****************************************************************************
 *** Files Organization                                                    ***
 *****************************************************************************
